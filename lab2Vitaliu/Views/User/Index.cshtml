@@ -1,0 +1,44 @@
+﻿@model IEnumerable<lab2Vitaliu.Models.User>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+
+<p>
+    <a href="/user/add">Создать пользователя</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Role.Name)
+                </td>
+                <td>
+                    <form action="/user/delete" method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <input type="submit" class="btn btn-danger" value="Удалить">
+                    </form>
+                </td>
+                <td>
+                    <form action="/user/update/@item.Id" method="get">
+                        <input type="submit" class="btn btn-warning" value="Изменить">
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

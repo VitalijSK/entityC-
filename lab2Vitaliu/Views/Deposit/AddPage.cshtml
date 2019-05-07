@@ -1,0 +1,56 @@
+﻿@model lab2Vitaliu.Models.Deposit
+
+@{
+    ViewData["Title"] = "AddPage";
+}
+
+<h2>AddPage</h2>
+
+<h4>Deposit</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddPage">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinTime" class="control-label"></label>
+                <input asp-for="MinTime" class="form-control" />
+                <span asp-validation-for="MinTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinMoney" class="control-label"></label>
+                <input asp-for="MinMoney" class="form-control" />
+                <span asp-validation-for="MinMoney" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCash" class="control-label">Cash</label>
+                <select asp-for="IdCash"
+                        asp-items="@(new SelectList(ViewBag.cashes,"Id","Name"))">
+                    <option>Please select one</option>
+                </select>
+                <span asp-validation-for="IdCash" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prosent" class="control-label"></label>
+                <input asp-for="Prosent" class="form-control" />
+                <span asp-validation-for="Prosent" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="AllResult">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

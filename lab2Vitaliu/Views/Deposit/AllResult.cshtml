@@ -1,0 +1,64 @@
+﻿@model IEnumerable<lab2Vitaliu.Models.Deposit>
+
+@{
+    ViewData["Title"] = "AllResult";
+}
+@Html.Partial("Partial")
+<h2>AllResult</h2>
+
+<p>
+    <a asp-action="AddPage">Create New</a>
+</p>
+<table class="table container">
+    <thead>
+        <tr>
+            <th>
+                <a href="/deposits/sort/@Html.DisplayNameFor(model => model.Name)">@Html.DisplayNameFor(model => model.Name)</a>
+            </th>
+            <th>
+                <a href="/deposits/sort/@Html.DisplayNameFor(model => model.MinTime)">@Html.DisplayNameFor(model => model.MinTime)</a>
+            </th>
+            <th>
+                <a href="/deposits/sort/@Html.DisplayNameFor(model => model.MinMoney)">@Html.DisplayNameFor(model => model.MinMoney)</a>
+            </th>
+            <th>
+                <a href="/deposits/sort/@Html.DisplayNameFor(model => model.IdCash)">Cash</a>
+            </th>
+            <th>
+                <a href="/deposits/sort/@Html.DisplayNameFor(model => model.Prosent)">@Html.DisplayNameFor(model => model.Prosent)</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr data-container-id="@item.Id">
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinMoney)
+                </td>
+                <td>
+                    @{
+                        List<Cash> cashes = ViewBag.cashes;
+                    }
+                    @Html.DisplayFor(modelItem => cashes.First(t => t.Id == item.IdCash).Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Prosent)
+                </td>
+
+                <td>
+                    <button class="btn delete" data-controller="deposits" data-id="@item.Id">x</button>
+                    @Html.ActionLink("Edit", "EditPage", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "DetailsPage", new { id = item.Id }) |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

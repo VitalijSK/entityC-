@@ -1,0 +1,51 @@
+﻿@model lab2Vitaliu.Models.Deposit
+
+@{
+    ViewData["Title"] = "DetailsPage";
+}
+
+<h2>DetailsPage</h2>
+
+<div>
+    <h4>Deposit</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MinTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MinTime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MinMoney)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MinMoney)
+        </dd>
+        <dt>
+            Cash Name:
+        </dt>
+        <dd>
+            @{
+                List<Cash> cashes = ViewBag.cashes;
+            }
+            @Html.DisplayFor(model => cashes.First(t => t.Id == model.IdCash).Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Prosent)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Prosent)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "EditPage", new {  id = Model.Id }) |
+    <a asp-action="AllResult">Back to List</a>
+</div>

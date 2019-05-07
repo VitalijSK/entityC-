@@ -1,0 +1,241 @@
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.deps.json
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.json
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.dev.json
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.dll
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csprojAssemblyReference.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfoInputs.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfo.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.input.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.output.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorCoreGenerate.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cache
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.dll
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.dll
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CopyComplete
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\AllResult.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\EditPage.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\DetailsPage.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\AddPage.g.cshtml.cs
+D:\Programming\CSharp\Inform\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\StartApplication.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.deps.json
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.json
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.dll
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.input.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.output.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorCoreGenerate.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\AddPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\AllResult.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\DetailsPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\EditPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\My\StartApplication.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab2Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CopyComplete
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.deps.json
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.json
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.dll
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.input.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.output.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorCoreGenerate.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CopyComplete
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AddPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AllResult.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\DetailsPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\EditPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab4Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\StartApplication.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.deps.json
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.json
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.dll
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.input.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.output.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorCoreGenerate.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AddPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AllResult.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\DetailsPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\EditPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\StartApplication.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CopyComplete
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csprojAssemblyReference.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CoreCompileInputs.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfoInputs.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfo.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.dll
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.deps.json
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.json
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.dev.json
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.dll
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.dll
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.input.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.output.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorCoreGenerate.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AddPage.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AllResult.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\DetailsPage.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\EditPage.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\StartApplication.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cache
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cs
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+D:\Downloads\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CopyComplete
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.deps.json
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.json
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.dll
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\bin\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.AssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.input.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.TagHelpers.output.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorCoreGenerate.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AddPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\AllResult.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\DetailsPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\EditPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\StartApplication.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cache
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.RazorTargetAssemblyInfo.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.Views.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.dll
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.pdb
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\lab2Vitaliu.csproj.CopyComplete
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Deposit\Partial.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Cash\Index.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Cash\EditPage.g.cshtml.cs
+C:\Users\Tom\Desktop\labc#\lab5Vitaliu (2)\lab5Vitaliu\lab5Vitaliu\lab2Vitaliu\obj\Debug\netcoreapp2.1\Razor\Views\Cash\AddPage.g.cshtml.cs

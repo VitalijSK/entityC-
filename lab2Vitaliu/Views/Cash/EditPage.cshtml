@@ -1,0 +1,46 @@
+﻿@model lab2Vitaliu.Models.Cash
+
+@{
+    ViewData["Title"] = "EditPage";
+}
+
+<h2>EditPage</h2>
+
+<h4>Cash</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditPage">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <select asp-for="Name" class="form-control">
+                    @foreach (Cash cash in ViewBag.cashes)
+                    {
+                        <option value="@cash.Name" selected="@(cash.Id == Model.Id)">@cash.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Change" class="control-label"></label>
+                <input asp-for="Change" class="form-control" />
+                <span asp-validation-for="Change" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
